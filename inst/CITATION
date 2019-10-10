@@ -1,0 +1,23 @@
+citHeader("To cite the R package 'PICS' in your publication please use:")
+
+citEntry(entry="article",
+	title="Probabilistic Inference for Nucleosome Positioning with MNase-Based or Sonicated Short-Read Data",
+	author=personList(
+		person(given="Xuekui", family="Zhang"),
+		person(given="Gordon", family="Robertson"),
+		person(given="Sangsoon", family="Woo"),
+		person(given="Brad", family="Hoffman"),
+		person(given="Raphael", family="Gottardo")
+	),
+	journal="PLoS ONE",
+	year="2012",
+	volume="7",
+	issue="2",
+	note="DOI:10.1371/journal.pone.0032095",
+	textVersion=paste("X. Zhang, G. Robertson, S. Woo, B. Hoffman and  R. Gottardo (2012) Probabilistic Inference for Nucleosome Positioning with MNase-Based or Sonicated Short-Read Data, PLoS ONE 7(2): e32095. DOI:10.1371/journal.pone.0032095")
+	)
+
+citFooter("This free open-source software implements academic
+research by the authors and co-workers. If you use it,
+please support the project by citing the appropriate
+journal articles.\n")
